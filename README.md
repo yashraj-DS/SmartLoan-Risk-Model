@@ -60,3 +60,13 @@ ________________________________________
 There is no single “best” model.  
 Model performance depends on business objectives.  
 By adjusting thresholds and comparing models, we convert machine learning output into strategic decision options.  
+________________________________________
+### 🛠 Tech Stack  
+• Python  
+• Pandas  
+• NumPy  
+• Matplotlib  
+• Scikit-learn  
+________________________________________
+### 🌟 Final Thought  
+This project demonstrates how machine learning can support real-world decision systems by aligning model performance with business priorities — rather than relying on accuracy alone.
